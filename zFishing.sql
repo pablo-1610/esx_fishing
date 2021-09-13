@@ -1,0 +1,1 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `limit`, `rare`, `can_remove`) VALUES ('fishingrod', 'Canne à peche', '1', '10', '0', '1');
